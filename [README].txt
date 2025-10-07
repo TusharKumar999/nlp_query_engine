@@ -131,9 +131,7 @@ streamlit run app.py
 - [x] Frontend polished + table view ✅  
 - [x] Queries tested ✅  
 - [x] Error handling verified ✅  
-- [x] Documentation complete ✅  
-- [x] Folder copied to `nlp_query_engine_submit` ✅  
-- [x] Folder zipped and ready for submission ✅  
+- [x] Documentation complete ✅    
 
 
 
